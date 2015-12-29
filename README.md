@@ -5,3 +5,4 @@ Because the My English is not good and there is some more things need to add lik
 Those files are 
 forgot.php, php/Creating_wallet.php, 
 The Footer of web is not design.But  I design Soon.
+For google f2a and captcha need a domain for site because they give secret id for our web
