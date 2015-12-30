@@ -1,6 +1,6 @@
 <?php
 require"jsonRPCClient.php";
-// edit your host db and wallet etc
+// edit your host db name and wallet etc
 $host = "localhost";
 $user = "root";
 $db = "orbitcoin";
