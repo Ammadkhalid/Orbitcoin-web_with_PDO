@@ -350,6 +350,7 @@ while($tx=$display_send->fetch(PDO::FETCH_ASSOC)) {
 	<link type="text/css" rel="stylesheet" href="css/tooltipster.css" />
 	<script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
   </body>
+  <?php include "php/footer.php"; ?>
 </html>
 <?php
 	} else {
