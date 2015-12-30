@@ -185,4 +185,5 @@ if(isset($_GET["hash"]) && isset($_GET["id"])) {
 	</div>
 	</div>
   </body>
+  <?php include "php/footer.php"; ?>
 </html>
