@@ -62,3 +62,4 @@ if(isset($_SESSION["Usr_d"])) {
   <script src="js/reg.js"></script>
   </body>
 </html>
+<?php $con = Null; ?>
