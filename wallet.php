@@ -361,3 +361,4 @@ while($tx=$display_send->fetch(PDO::FETCH_ASSOC)) {
 } else {
 	header("location:login.php");
 }
+$con = Null;
