@@ -73,4 +73,5 @@ echo $header->Get_reset($title);
 } else {
     header("location:index.php");
 }
+  <?php $con = Null; ?>
 ?>
