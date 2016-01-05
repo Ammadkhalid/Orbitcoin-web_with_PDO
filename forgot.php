@@ -47,3 +47,4 @@ if(isset($_SESSION["Usr_d"])) {
     
   </body>
 </html>
+<?php $con = Null; ?>
